@@ -11,11 +11,13 @@
  
 2. Combine different methods
   OM2 as ground state MD and GFN-xTB as production
-  **Ground state MD Energy**
+  **Ground state MD Energy**  
   ![GFN_energy](/image/new143energy.png)
+  
   GFN *GFN has more energy levels*
   ![OM2_energy](/image/143energy.png)
-  OM2
+  
+  OM2 methods 
   
   This is an easy trial. Just modify the codes and keep the nodes running. Can be done at free time.
   
@@ -24,9 +26,12 @@
 1. Get a stable spectrum with less MD times
 **Production MD #fragments**
   ![GFN_fragment](/image/newversion143.png)
+  
   GFN *GFN has longer simulation time*
+  
   ![OM2_fragment](/image/143fragments.png)
-  OM2
+  
+  OM2 methods
 
 2. Change parameters
 This could be the main part for my QE project. We already had some results and it's easy 
