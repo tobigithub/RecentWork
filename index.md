@@ -11,6 +11,7 @@
  
 2. Combine different methods
   OM2 as ground state MD and GFN-xTB as production
+  
   **Ground state MD Energy**  
   ![GFN_energy](/image/new143energy.png)
   
@@ -24,6 +25,7 @@
   
 ### Statistical method
 1. Get a stable spectrum with less MD times
+
 **Production MD #fragments**
   ![GFN_fragment](/image/newversion143.png)
   
@@ -34,6 +36,7 @@
   OM2 methods
 
 2. Change parameters
+
 This could be the main part for my QE project. We already had some results and it's easy 
 to draw some conclusions. But we need to collect more chemistry knowledge into explanation.
 
