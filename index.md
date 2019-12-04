@@ -1,6 +1,7 @@
 ## How to Speed up QCEIMS
 ### QC method
-1. Multiple time step integrator 
+
+/1. Multiple time step integrator 
 
   **Plan:** break down GFN-xTB Hamiltonian into fast and slow part
   
@@ -9,7 +10,7 @@
  I need to talk to him more frequently and regularly. If I can solve this problem before my QE, 
  I will have 100% confidence to pass it.
  
- 2. Combine different methods 
+ /2. Combine different methods 
 
   **Plan:** OM2 as ground state MD and GFN-xTB as production
   
