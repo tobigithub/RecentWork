@@ -9,8 +9,7 @@
  I need to talk to him more frequently and regularly. If I can solve this problem before my QE, 
  I will have 100% confidence to pass it.
  
- 
-2. Combine different methods 
+ 2. Combine different methods 
 
   **Plan:** OM2 as ground state MD and GFN-xTB as production
   
