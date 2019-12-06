@@ -61,3 +61,22 @@ a littel far away from chemistry. I am more willing to dig into this after QE.
 * Finish a review paper on QCEIMS and it's application in metabolomics.**Before the end of this quarter**
 * Finish the draft and talk with Dean about the gold project paper. **Winter break**
 
+---
+
+
+## Task external
+1) Code parser for qceims.out to calculate the reason of exit and time steps.
+````
+step   time [fs]    Epot       Ekin       Etot    error  #F   eTemp   frag. T | 	Reason
+--------------------------------------------------------------------------------------------------
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    900   1380.    -25.06868   0.1446   -24.92406  0.0006 1   21000.    4104.        	E X I T   M D  because of tmax has been reached
+    
+````
+
